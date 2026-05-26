@@ -2,7 +2,7 @@
 
 This repository contains my problem sets and final project for Harvard's [CS50p](https://cs50.harvard.edu/python/). 
 
-Coming from a background in systems programming (C/C++) and having previously completed CS50x, I am using this course to solidify my Python foundations. The focus here is on writing clean, functional Python code that scales into real-world applications, particularly for automation, web scraping, and backend services.
+Coming from a background in systems programming (C/C++), I am using this course to solidify my Python foundations. The focus here is on writing clean, functional Python code that scales into real-world applications, particularly for automation, web scraping, and backend services.
 
 ## Repository Structure
 
